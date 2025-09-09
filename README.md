@@ -1,0 +1,24 @@
+# แอพกล้องถ่ายรูป
+
+แอพพลิเคชันสำหรับถ่ายรูปด้วย Expo React Native ที่มีฟีเจอร์พื้นฐานที่ครบถ้วน ได้แก่ การถ่ายภาพ บันทึกภาพ สลับกล้อง และควบคุมแฟลช
+
+## ฟีเจอร์
+
+- ถ่ายภาพด้วยกล้องหน้าและกล้องหลัง
+- บันทึกรูปภาพลงคลังภาพของเครื่อง
+- สลับระหว่างกล้องหน้าและกล้องหลัง
+- รองรับการใช้งานทั้งบน iOS และ Android
+- ควบคุมแฟลชเปิด/ปิด
+
+## ภาพหน้าจอ
+
+[หน้าจอกล้องหน้า](/Users/witchayuen./camera-app/assets/7649955B-3A5A-4321-9437-732E16AA9D76.JPG)
+[หน้าจอพรีวิวหน้า](/Users/witchayuen./camera-app/assets/IMG_0683.PNG)
+[หน้าจอกล้องหลัง](/Users/witchayuen./camera-app/assets/BEE39E16-5528-4491-987E-C539A5437BC8.JPG)
+[หน้าจอพรีวิวหลัง](/Users/witchayuen./camera-app/assets/IMG_0681.PNG)
+
+## การติดตั้ง
+
+1. ติดตั้ง expo-cameranpx expo install expo-camera expo-media-library
+
+รัน npx expo start 
