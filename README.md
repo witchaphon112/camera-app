@@ -12,10 +12,10 @@
 
 ## ภาพหน้าจอ
 
-[หน้าจอกล้องหน้า](/Users/witchayuen./camera-app/assets/7649955B-3A5A-4321-9437-732E16AA9D76.JPG)
-[หน้าจอพรีวิวหน้า](/Users/witchayuen./camera-app/assets/IMG_0683.PNG)
-[หน้าจอกล้องหลัง](/Users/witchayuen./camera-app/assets/BEE39E16-5528-4491-987E-C539A5437BC8.JPG)
-[หน้าจอพรีวิวหลัง](/Users/witchayuen./camera-app/assets/IMG_0681.PNG)
+![หน้าจอกล้องหน้า](screenshots/7649955B-3A5A-4321-9437-732E16AA9D76.JPG)
+![หน้าจอพรีวิวหน้า](screenshots/IMG_0683.PNG)
+![หน้าจอกล้องหลัง](screenshots/BEE39E16-5528-4491-987E-C539A5437BC8.JPG)
+![หน้าจอพรีวิวหลัง](screenshots/IMG_0681.PNG)
 
 ## การติดตั้ง
 
